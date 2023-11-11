@@ -1,0 +1,8 @@
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\bin\Debug\SemaforoParametTP.exe.config
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\bin\Debug\SemaforoParametTP.exe
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\bin\Debug\SemaforoParametTP.pdb
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\obj\Debug\SemaforoParametTP.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\obj\Debug\SemaforoParametTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\obj\Debug\SemaforoParametTP.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\obj\Debug\SemaforoParametTP.exe
+C:\Users\Agustin\source\repos\SemaforoParametTP\SemaforoParametTP\obj\Debug\SemaforoParametTP.pdb
